@@ -1,0 +1,10 @@
+{
+    "minimum-stability": "dev",
+    "require":
+    {
+        "php": ">=5.3.3",
+        "phpunit/phpunit": "dev-configuration",
+        "doctrine/orm": "2.4.*@dev",
+        "doctrine/dbal": "2.4.*@dev"
+    }
+}
